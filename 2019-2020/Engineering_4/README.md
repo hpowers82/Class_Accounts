@@ -21,3 +21,4 @@ Jamez L. | [jlynch56](https://github.com/jlynch56) | I like programming.
 Adrian A.| [aanders96](https://github.com/aanders96)| I like Lacrosse.
 Jaleom A-M.| [jadamsm37](https://github.com/jadamsm37)| I like Football.
 Charles W. | [cwermte54](https://github.com/cwermte54)| I speak 4 different languages.
+Hank P. | [hpowers82](https://github.com/hpowers82) | I am better than average at minecraft.
